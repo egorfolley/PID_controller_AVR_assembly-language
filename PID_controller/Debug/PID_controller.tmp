@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega8"</DEVICE>
+ <WORKING_DIR>D:\Documents - data drive\AtmelStudio\PID_controller\PID_controller\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/Atmel\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>D:\Atmel\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Documents - data drive\AtmelStudio\PID_controller\PID_controller\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/Atmel\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m8def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Documents - data drive\AtmelStudio\PID_controller\PID_controller\Debug\PID_controller.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>PID_controller.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>PID_controller.map</FILE>
+  <FILE>PID_controller.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <PID><FILE>D:\Documents - data drive\AtmelStudio\PID_controller\PID_controller\main.asm</FILE><LINE>21</LINE></PID>
+  <over><FILE>D:\Documents - data drive\AtmelStudio\PID_controller\PID_controller\main.asm</FILE><LINE>54</LINE></over>
+  <under><FILE>D:\Documents - data drive\AtmelStudio\PID_controller\PID_controller\main.asm</FILE><LINE>58</LINE></under>
+  <contin><FILE>D:\Documents - data drive\AtmelStudio\PID_controller\PID_controller\main.asm</FILE><LINE>44</LINE></contin>
+  <cycle><FILE>D:\Documents - data drive\AtmelStudio\PID_controller\PID_controller\main.asm</FILE><LINE>62</LINE></cycle>
+ </LABELS>
+</ASSEMBLER_INFO>
